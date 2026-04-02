@@ -1,4 +1,4 @@
-# 🏙️ Real Estate Intelligence — Hybrid RAG Agent
+# 🏙️ Smart Real Estate RAG System - Intelligence Hybrid RAG Agent (KG RAG + Neo4j + Vector Search + LLM Router)
 
 A Hybrid Retrieval-Augmented Generation (RAG) system for real estate that combines **Knowledge Graph (Neo4j)** and **Vector Search (ChromaDB)** to answer structured, semantic, and hybrid queries about properties, prices, amenities, and locations — powered by OpenAI and served through a Streamlit interface.
 
@@ -8,14 +8,14 @@ A Hybrid Retrieval-Augmented Generation (RAG) system for real estate that combin
 
 ```
                         ┌──────────────┐
-                        │  User Query  │
+                        │  User Query     │
                         └──────┬───────┘
                                │
                     ┌──────────▼──────────┐
-                    │    Smart Router     │
-                    │  (Rule + LLM-based) │
+                    │    Smart Router          │
+                    │  (Rule + LLM-based).     │
                     └──┬───────┬───────┬──┘
-                       │       │       │
+                        │       │       │
               STRUCTURED    HYBRID   SEMANTIC
                        │       │       │
                ┌───────▼──┐   │  ┌────▼────────┐
@@ -230,5 +230,4 @@ This project is open source. See the repository for license details.
 
 ## Author
 
-**Jeya Alagappan** — [GitHub](https://github.com/JeyaAlagappan)
-
+**Sanjay Chintamani Patel** — [Google](https://www.google.com/search?q=sanjay+chintamani+patel)
