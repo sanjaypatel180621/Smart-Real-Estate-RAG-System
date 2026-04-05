@@ -1,0 +1,101 @@
+project_id,name,location,launch_year,price_per_sqft,status
+P1,Project 1,Tambaram,2022,7368,Upcoming
+P2,Project 2,Anna Nagar,2019,6508,Active
+P3,Project 3,Velachery,2021,6354,Upcoming
+P4,Project 4,Tambaram,2023,5585,Upcoming
+P5,Project 5,Velachery,2020,6051,Completed
+P6,Project 6,Porur,2018,6155,Completed
+P7,Project 7,OMR,2024,11241,Completed
+P8,Project 8,Tambaram,2025,5467,Upcoming
+P9,Project 9,Porur,2025,9028,Upcoming
+P10,Project 10,Tambaram,2024,5645,Upcoming
+P11,Project 11,Tambaram,2020,5876,Completed
+P12,Project 12,Velachery,2020,11593,Upcoming
+P13,Project 13,OMR,2022,10957,Upcoming
+P14,Project 14,Tambaram,2019,6439,Upcoming
+P15,Project 15,OMR,2018,5027,Active
+P16,Project 16,Anna Nagar,2020,8871,Completed
+P17,Project 17,Tambaram,2018,4708,Upcoming
+P18,Project 18,Velachery,2021,7199,Active
+P19,Project 19,Porur,2024,6553,Active
+P20,Project 20,OMR,2024,4699,Completed
+P21,Project 21,OMR,2025,8123,Upcoming
+P22,Project 22,Tambaram,2023,9627,Completed
+P23,Project 23,Anna Nagar,2022,6177,Upcoming
+P24,Project 24,Anna Nagar,2019,5586,Active
+P25,Project 25,ECR,2020,11804,Completed
+P26,Project 26,Velachery,2021,11595,Upcoming
+P27,Project 27,OMR,2019,4724,Upcoming
+P28,Project 28,ECR,2020,9980,Active
+P29,Project 29,Velachery,2023,10669,Upcoming
+P30,Project 30,OMR,2025,9643,Completed
+P31,Project 31,ECR,2021,11725,Upcoming
+P32,Project 32,Tambaram,2022,10951,Completed
+P33,Project 33,ECR,2021,5987,Upcoming
+P34,Project 34,ECR,2025,9437,Upcoming
+P35,Project 35,Velachery,2018,6489,Completed
+P36,Project 36,Adyar,2024,8463,Upcoming
+P37,Project 37,Velachery,2018,10591,Upcoming
+P38,Project 38,ECR,2023,9558,Completed
+P39,Project 39,Velachery,2020,9720,Upcoming
+P40,Project 40,Adyar,2024,6518,Completed
+P41,Project 41,Velachery,2018,9954,Active
+P42,Project 42,OMR,2021,10157,Active
+P43,Project 43,ECR,2021,6380,Completed
+P44,Project 44,Adyar,2019,6016,Upcoming
+P45,Project 45,Anna Nagar,2019,8576,Active
+P46,Project 46,Porur,2020,5669,Active
+P47,Project 47,Tambaram,2022,7418,Upcoming
+P48,Project 48,Velachery,2023,6300,Upcoming
+P49,Project 49,ECR,2021,8748,Upcoming
+P50,Project 50,Velachery,2025,9435,Upcoming
+P51,Project 51,Anna Nagar,2019,10012,Active
+P52,Project 52,Tambaram,2020,7612,Active
+P53,Project 53,Adyar,2024,9302,Upcoming
+P54,Project 54,Tambaram,2020,7669,Upcoming
+P55,Project 55,Porur,2020,11443,Upcoming
+P56,Project 56,Tambaram,2020,9125,Completed
+P57,Project 57,Anna Nagar,2019,5969,Upcoming
+P58,Project 58,Tambaram,2020,9308,Active
+P59,Project 59,Porur,2022,10565,Active
+P60,Project 60,Anna Nagar,2023,9511,Completed
+P61,Project 61,ECR,2018,5941,Active
+P62,Project 62,OMR,2023,7020,Completed
+P63,Project 63,Adyar,2023,5603,Completed
+P64,Project 64,Adyar,2018,6365,Upcoming
+P65,Project 65,Porur,2025,11871,Active
+P66,Project 66,Adyar,2020,11550,Active
+P67,Project 67,Tambaram,2019,8559,Active
+P68,Project 68,ECR,2023,8803,Completed
+P69,Project 69,Tambaram,2021,11489,Upcoming
+P70,Project 70,Adyar,2021,4728,Completed
+P71,Project 71,Anna Nagar,2019,11403,Active
+P72,Project 72,ECR,2018,9119,Active
+P73,Project 73,Porur,2019,9736,Active
+P74,Project 74,Anna Nagar,2023,11391,Active
+P75,Project 75,ECR,2024,9398,Completed
+P76,Project 76,Velachery,2023,9037,Active
+P77,Project 77,Velachery,2022,8718,Completed
+P78,Project 78,ECR,2021,9224,Upcoming
+P79,Project 79,Porur,2021,11530,Upcoming
+P80,Project 80,ECR,2021,7666,Completed
+P81,Project 81,Porur,2018,5609,Active
+P82,Project 82,Tambaram,2019,5192,Active
+P83,Project 83,Tambaram,2018,7664,Completed
+P84,Project 84,OMR,2024,6350,Completed
+P85,Project 85,Velachery,2019,7680,Completed
+P86,Project 86,Tambaram,2023,7989,Completed
+P87,Project 87,Adyar,2024,7794,Completed
+P88,Project 88,Tambaram,2020,6145,Upcoming
+P89,Project 89,OMR,2018,6132,Upcoming
+P90,Project 90,Velachery,2023,10382,Active
+P91,Project 91,Anna Nagar,2020,7865,Upcoming
+P92,Project 92,OMR,2022,6287,Completed
+P93,Project 93,Anna Nagar,2022,10791,Completed
+P94,Project 94,ECR,2020,9740,Upcoming
+P95,Project 95,Porur,2020,11741,Completed
+P96,Project 96,Porur,2021,4501,Completed
+P97,Project 97,Tambaram,2022,6306,Completed
+P98,Project 98,OMR,2018,11181,Active
+P99,Project 99,Porur,2022,6365,Active
+P100,Project 100,Tambaram,2021,6821,Completed

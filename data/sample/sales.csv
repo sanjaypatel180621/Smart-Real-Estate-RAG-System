@@ -1,0 +1,3 @@
+sale_id,unit_id,buyer_type,sold_date
+S1,U1,EndUser,2023-06-15
+S2,U2,Investor,2023-09-01
